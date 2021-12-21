@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new fetc
+=======
+new fetch janoa
+>>>>>>> 104a505b8de590d38aea72a5913538aa1a9faa2f
