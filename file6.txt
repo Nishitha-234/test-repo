@@ -1,1 +1,2 @@
 my sixth file
+file6 got updated
